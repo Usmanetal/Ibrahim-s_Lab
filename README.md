@@ -1,2 +1,2 @@
-# Ibrahim-s_Lab
-Reproducible genomics pipeline
+# README
+A repository for reproducible genomics pipeline
